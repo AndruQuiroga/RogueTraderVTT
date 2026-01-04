@@ -1954,7 +1954,14 @@
       },
       "rogueTraderExtras": {
         "rogueTrader": {
-          "rank": 1,
+          "identity": {
+            "characterName": "",
+            "playerName": "",
+            "careerPathRank": "",
+            "homeWorld": "",
+            "motivation": ""
+          },
+          "rank": "",
           "careerPath": "",
           "motivation": "",
           "profitFactor": {
